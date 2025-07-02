@@ -10,4 +10,4 @@
 
 ___
 
-Прикрепляю исправленные файлы и diff.
+Прикрепляю исправленные [Client.h](./Client.h), [Client.cpp](./Client.cpp) и [патч](./code_reciew.patch).
